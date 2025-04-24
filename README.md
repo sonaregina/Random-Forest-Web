@@ -34,15 +34,7 @@ These biomarkers are commonly found in medical records and have been linked to b
 - **Library:** scikit-learn  
 - **Language:** Python  
 - **Training Dataset:** Tabular data with numeric biomarker scores  
-- **Accuracy:** ~90% on test data
-
----
-
-## 🖥️ Technologies
-
-- **Frontend:** Basic HTML form (or Streamlit interface)
-- **Backend/ML Model:** Python, pandas, scikit-learn
-- **Deployment:** Localhost / Streamlit (if applicable)
+- **Accuracy:** ~80% on test data
 
 ---
 
