@@ -40,11 +40,9 @@ These biomarkers are commonly found in medical records and have been linked to b
 
 ## 🚀 How to Use
 
-1. Click :
-Run in Voila : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azizahregina/Random-Forest-Web/main?urlpath=%2Fvoila%2Frender%2Fweb_randomforest.ipynb)
-
+1. Click : Run in Voila : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azizahregina/Random-Forest-Web/main?urlpath=%2Fvoila%2Frender%2Fweb_randomforest.ipynb)
 Run in Jupyter-Binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azizahregina/Random-Forest-Web/main?filepath=web_randomforest.ipynb)
-
+or u can click web_randomforest.ipynb and run all the cell
 3. Enter values for each medical score.
 4. Click the **Predict** button.
 5. The system will return a prediction based on your inputs.
